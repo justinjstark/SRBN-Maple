@@ -1,0 +1,4 @@
+SRBN-Maple
+A Synchronous Random Boolean Network Library for Mathworks Maple
+
+This is a project I developed back in 2007.  You can initialize a random Boolean network, set up the nodes and relations, step through iterations, and visualize the network at each step.  This project is no longer under development.  You may download it and use it as you wish.
